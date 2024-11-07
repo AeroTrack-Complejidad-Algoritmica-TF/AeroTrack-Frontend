@@ -38,3 +38,12 @@
     width: 100%;
     box-sizing: border-box;
 }
+#rutaImagenContainer {
+    display: none; 
+    text-align: center;
+
+}
+#rutaImagenContainer img {
+
+    height: auto;
+}
